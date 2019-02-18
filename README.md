@@ -1,5 +1,5 @@
 # Progetto per il corso di SII e ML
-## Sperimentazione di reti neurali, convolutive e transfer learning
+## Sperimentazione di reti neurali, convolutive e transfer learning. I membri del gruppo sono:
 1. Riccardo D'angelo Gargano
 2. Alessandro Martinelli
 3. Andrea Serrecchia
