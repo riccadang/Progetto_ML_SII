@@ -7,4 +7,4 @@
 
 ## Organizzazione del repository
 1. [OCR](https://github.com/riccadang/Progetto_ML_SII/tree/master/OCR) contiene il codice per la definizione di una rete neurale per il riconoscimento di caratteri scritti a mano
-2. [environments](https://github.com/riccadang/Progetto_ML_SII/tree/master/deep) contiene il codice per la definizione di due reti convolutive: la prima creata da zero, la seconda sfruttando il transfer learning
+2. [deep](https://github.com/riccadang/Progetto_ML_SII/tree/master/deep) contiene il codice per la definizione di due reti convolutive: la prima creata da zero, la seconda sfruttando il transfer learning
