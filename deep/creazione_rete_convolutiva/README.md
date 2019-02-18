@@ -1,10 +1,8 @@
-# Progetto per il corso di SII e ML
-## Sperimentazione di rete neurali, convolutive e transfer learning
-1. Riccardo D'angelo Gargano
-2. Alessandro Martinelli
-3. Andrea Serrecchia
+# Creazione di una nuova rete convolutiva per il riconoscimento di oggetti
 
+La rete è in grado di riconoscere 4 delle 10 categorie presenti del dataset [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html): automobile, aereo, cane e cavallo
 
-## Organizzazione del repository
-1. [projects](https://github.com/riccadang/progetto_asw/tree/master/projects) contiene il codice delle applicazioni
-2. [environments](https://github.com/riccadang/progetto_asw/tree/master/environments) contiene il codice per la gestione degli ambienti virtuali
+1. Scaricare il dataset CIFAR-10 usando questo [script](https://github.com/knjcode/cifar2png)
+2. Creare le cartelle "test" e "train" dentro "creazione_rete_convolutiva", contenenti le immagini di interesse
+3. Creare il dataset usando crea_dataset_Cifar10
+4. Addestrare la rete utilizzando addestramento
